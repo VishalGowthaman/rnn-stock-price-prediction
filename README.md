@@ -25,6 +25,10 @@
 ### STEP 6: Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
+```
+Developed By : VISHAL GOWTHAMAN K R
+Reg No : 212221230123
+```
 ```py
 import numpy as np
 import matplotlib.pyplot as plt
