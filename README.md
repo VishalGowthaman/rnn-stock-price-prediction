@@ -1,4 +1,4 @@
-# EXP-4: Stock Price Prediction
+# EXP-5: Stock Price Prediction
 ## AIM:
 
 ### To develop a Recurrent Neural Network model for stock price prediction.
@@ -25,10 +25,6 @@
 ### STEP 6: Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
-```
-Developed By : VISHAL GOWTHAMAN K R
-Reg No : 212221230123
-```
 ```py
 import numpy as np
 import matplotlib.pyplot as plt
